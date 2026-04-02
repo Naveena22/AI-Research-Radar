@@ -40,4 +40,4 @@ An automated AI news intelligence system built using n8n.
 - Tech intelligence dashboards
 
 ## 👩‍💻 Built By
-(Your Nam
+Naveena Yeppala
